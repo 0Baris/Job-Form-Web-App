@@ -131,4 +131,4 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = '' ### Mail
-EMAIL_HOST_PASSWORD = '' ### App Password
+EMAIL_HOST_PASSWORD = '' ### App Password -> https://myaccount.google.com/apppasswords
