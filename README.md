@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/942f7ad3-268e-48ca-9356-0d55971d37ef)
-
 # Form Application
 
 Bu proje, basit bir işe alım WEB uygulamasıdır. Kullanıcıların form doldurup gönderdiği verileri veritabanına kaydeder ve formu dolduran kişiye onay maili gönderir.
+
+![image](https://github.com/user-attachments/assets/942f7ad3-268e-48ca-9356-0d55971d37ef)
 
 
 ## Frameworkler Arası Farklar
